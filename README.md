@@ -3,11 +3,25 @@ iGo is a software engineering project that combines elements of both agile and r
 
 ## Team Members:
 
-- Aryan Saxena <br>
-- Apoorva Sharma <br>
-- Deepanshu Sehgal <br>
-- Saumya Shah <br>
-- Siva Nagi Reddy	Segi Reddy <br>
+- ### Aryan Saxena 
+Experience: Cloud Data Engineer with 1 year of experience <br>
+Skills : Java, Microsoft Azure, SQL & PowerBI <br>
+
+- ### Apoorva Sharma 
+Experience: Full stack developer with 2+ years of experience <br>
+Skills : Javascript, Java, React, React Native, Redux, MobX	 <br>
+
+- ### Deepanshu Sehgal
+Experience: Digital Tech Developer Associate with 2 years experience <br>
+Skills : Java, Jira, Adobe Analytics, UI Designing, SQL<br>
+
+- ### Saumya Shah
+Experience: 1 year of experience as Android and flutter dev <br>
+Skills : Android, Flutter <br>
+
+- ### Siva Nagi Reddy	Segi Reddy
+Experience: 3 years experience as a Software Engineer <br>
+Skills : Java, SQL,	Python, C++, AWS-S3 & EC2 <br>
 
 # Deliverable 1
 
