@@ -3,8 +3,8 @@ iGo is a software engineering project that combines elements of both agile and r
 
 # Team Members:
 
-Aryan Saxena
-Apoorva Sharma
-Deepanshu Sehgal
-Saumya Shah
-Siva Nagi Reddy	Segi Reddy
+Aryan Saxena <br>
+Apoorva Sharma <br>
+Deepanshu Sehgal <br>
+Saumya Shah <br>
+Siva Nagi Reddy	Segi Reddy <br>
